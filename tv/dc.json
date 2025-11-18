@@ -16,8 +16,8 @@
             "name": "🚀zlove-021"
         },
             {
-            "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-            "name": "🚀本地API"
+            "url": "clan://localhost/TVBoxOSC/本地仓/本地仓.txt",
+            "name": "🚀本地仓"
         }
     ]
 }
