@@ -1,6 +1,10 @@
 //此多仓接口列表为【ZF2629】提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
 {
     "urls": [
+            {
+            "url": "https://zlove.neocities.org/y/02.json",
+            "name": "🚀zlove-02"
+        },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🚀https://www.王二小放牛娃.top"
@@ -10,6 +14,10 @@
         {
             "url": "https://zlove.neocities.org/y/02.json",
             "name": "🚀zlove-021"
+        },
+            {
+            "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+            "name": "🚀本地API"
         }
     ]
 }
